@@ -4,13 +4,6 @@
 使用声明：⚠️此脚本仅供学习与交流，
         请勿转载与贩卖！⚠️⚠️⚠️
 *******************************
-[rewrite_local]
-# > TIDAL解锁HiFi Plus
-^https?:\/\/api\.tidal\.com\/v1\/users\/\d+\/subscription.+ url script-response-body https://raw.githubusercontent.com/yqc007/QuantumultX/master/TIDALHiFiPlusCrack.js
-^https?:\/\/api\.tidal\.com\/v1\/tracks/\d+\/playbackinfopostpaywall.+ url script-analyze-echo-response https://raw.githubusercontent.com/yqc007/QuantumultX/master/TidalHiFiPlusCrack.js
-
-[mitm] 
-hostname = api.tidal.com
 
 *******************************/
 
