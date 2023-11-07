@@ -1,7 +1,7 @@
 /******************************************
  * @name 𝐓𝐢𝐝𝐚𝐥
- * @channel 
- * @feedback 
+ * @channel https://t.me/guwanguishi
+ * @feedback https://t.me/guwanjiaoliu
  * @version 1.0.0
 ******************************************
 ## 脚本注明
