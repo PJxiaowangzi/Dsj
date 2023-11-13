@@ -6,10 +6,10 @@
   "repo": "https://github.com",
   "apps": [
 {
-      "id": "yuheng.imaotai",
+      "id": "imaotai",
       "name": "i茅台预约",
       "descs_html": [
-        "<p style='color:#ff0000;font-size:18px;font-weight:900;text-align:center;margin-top:20px;'>脚本已删, 无需再问</p>"
+        "<p style='color:#ff0000;font-size:18px;font-weight:900;text-align:center;margin-top:20px;'>互联网自留地</p>"
       ],
       "keys": [
         "imaotai_params",
@@ -78,8 +78,8 @@
           "desc": "默认选择最近店铺"
         }
       ],
-      "author": "@yuheng",
-      "repo": "https://github.com/Yuheng0101/X",
+      "author": "@xiaowangzi",
+      "repo": "@",
       "icons": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ae/f4/18/aef41811-955e-e6b0-5d23-6763c2eef1ab/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/144x144.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ae/f4/18/aef41811-955e-e6b0-5d23-6763c2eef1ab/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/144x144.png"
