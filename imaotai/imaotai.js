@@ -6,8 +6,8 @@
  * @update 20231114
  * @version 1.0.0
  ******************************************
-###详细见同目录README
-```Quantumult X
+###理论上支持LOON、SURGE、Stash、Shadowrocket
+Quantumult X
 [mitm]
 hostname = app.moutai519.com.cn
 
